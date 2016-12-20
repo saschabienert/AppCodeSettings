@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse (Mac OS X) custom" parent="Eclipse (Mac OS X)">
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="CleanBuildFolder">
     <keyboard-shortcut first-keystroke="shift meta alt k" />
   </action>
