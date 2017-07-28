@@ -53,6 +53,10 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunToCursor" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
