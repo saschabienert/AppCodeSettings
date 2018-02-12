@@ -3,8 +3,13 @@
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorDuplicateLines" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
