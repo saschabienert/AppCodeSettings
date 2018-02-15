@@ -1,4 +1,10 @@
 <keymap version="1" name="Eclipse (Mac OS X) custom" parent="Eclipse (Mac OS X)">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -10,6 +16,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Diff.ShowDiff" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicateLines" />
   <action id="EditorNextWordInDifferentHumpsMode">
@@ -65,6 +72,7 @@
   </action>
   <action id="RunToCursor" />
   <action id="SendEOF" />
+  <action id="ShowIntentionActions" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
