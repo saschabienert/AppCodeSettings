@@ -13,6 +13,15 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="CleanBuildFolder">
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
