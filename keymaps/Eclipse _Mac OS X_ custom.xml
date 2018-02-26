@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse (Mac OS X) custom" parent="Eclipse (Mac OS X)">
+  <action id="ActivateMessagesToolWindow">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
@@ -45,6 +48,8 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorDeleteLine" />
@@ -78,6 +83,9 @@
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
   <action id="Inline" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="meta alt v" />
@@ -96,6 +104,12 @@
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta alt r" />
@@ -134,6 +148,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Switcher" />
   <action id="ToggleFullScreen" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.ReformatCommitMessage">
