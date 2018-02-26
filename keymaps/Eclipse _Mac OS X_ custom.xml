@@ -182,5 +182,8 @@
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
