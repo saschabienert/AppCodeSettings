@@ -8,7 +8,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
-  <action id="AutoIndentLines" />
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta left" />
@@ -74,7 +76,6 @@
     <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="RenameElement">
@@ -109,5 +110,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ToggleFullScreen" />
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
