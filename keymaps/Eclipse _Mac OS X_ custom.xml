@@ -5,6 +5,9 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
