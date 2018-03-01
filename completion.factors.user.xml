@@ -102,6 +102,9 @@
       <dailyData date="27-2-2018">
         <observation name="cancelled" value="1.0" />
       </dailyData>
+      <dailyData date="1-3-2018">
+        <observation name="cancelled" value="1.0" />
+      </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="26-2-2018">
@@ -113,6 +116,9 @@
         <observation name="count" value="26.0" />
       </dailyData>
       <dailyData date="27-2-2018">
+        <observation name="count" value="1.0" />
+      </dailyData>
+      <dailyData date="1-3-2018">
         <observation name="count" value="1.0" />
       </dailyData>
     </factor>
