@@ -27,9 +27,7 @@
   <action id="CIDR.Lang.ObjC.ExtractSubclass">
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
-  <action id="CIDR.Lang.ObjC.IntroduceProperty">
-    <keyboard-shortcut first-keystroke="meta alt i" />
-  </action>
+  <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
@@ -94,12 +92,14 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
-  <action id="Inline" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="Instruments">
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="meta alt v" />
