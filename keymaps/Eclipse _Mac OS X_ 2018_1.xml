@@ -11,6 +11,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
+  <action id="AppCode.OpenInXcodeAction">
+    <keyboard-shortcut first-keystroke="meta alt x" />
+  </action>
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
