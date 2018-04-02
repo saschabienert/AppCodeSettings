@@ -184,6 +184,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Switcher" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="meta alt #10000a7" />
+  </action>
   <action id="ToggleFullScreen" />
   <action id="ToggleLineBreakpoint" />
   <action id="Vcs.Log.GoToRef" />
