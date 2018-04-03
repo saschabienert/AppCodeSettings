@@ -18,5 +18,15 @@
         </Item>
       </Statistic>
     </option>
+    <option name="suppressed">
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F3' or '⌘Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
   </component>
 </application>
