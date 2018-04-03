@@ -196,6 +196,9 @@
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
   <action id="linessorter.sort">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
