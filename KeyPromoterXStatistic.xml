@@ -6,7 +6,15 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Button4 Click' or '⌃⌘←'</ShortCut>
           <Description>Back</Description>
-          <Count>5</Count>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'Button5 Click' or '⌃⌘→'</ShortCut>
+          <Description>Forward</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
