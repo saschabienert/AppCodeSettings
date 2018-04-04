@@ -25,12 +25,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FrequencyLimitsTests...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FrequencyLimitsTests...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Functional Tests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'Functional Tests'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>
