@@ -59,9 +59,7 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToLeft" />
-  <action id="EditSource">
-    <mouse-shortcut keystroke="button1" />
-  </action>
+  <action id="EditSource" />
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicateLines" />
   <action id="EditorNextWordInDifferentHumpsMode">
