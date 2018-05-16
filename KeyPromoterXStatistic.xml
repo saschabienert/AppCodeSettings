@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MediationTestApp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Run 'MediationTestApp'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SDK Test App'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
