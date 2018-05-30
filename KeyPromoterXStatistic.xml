@@ -14,7 +14,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Button5 Click' or '⌃⌘→'</ShortCut>
           <Description>Forward</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -46,7 +46,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>38</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -94,7 +94,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'MediationTestApp'</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SDK Test App'">
