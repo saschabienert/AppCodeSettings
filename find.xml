@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../SDK Test App/Classes/ViewControllers/AdViewController.swift'" />
+    <option name="defaultScopeName" value="File '.../SDK Test App/Classes/ViewControllers/AdViewController.swift'" />
+    <option name="SEARCH_SCOPE" value="File '.../SDK Test App/Classes/ViewControllers/AdViewController.swift'" />
   </component>
 </application>
