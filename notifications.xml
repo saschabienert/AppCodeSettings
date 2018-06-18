@@ -1,5 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="IDE and Plugin Updates" />
     <notification groupId="IDE Usage Statistics" displayType="NONE" shouldLog="false" />
+    <notification groupId="Xcode" />
   </component>
 </application>
