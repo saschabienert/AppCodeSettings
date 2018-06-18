@@ -200,8 +200,10 @@
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift alt #10000a7" />
   </action>
-  <action id="ToggleFullScreen" />
   <action id="ToggleLineBreakpoint" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="meta i" />
