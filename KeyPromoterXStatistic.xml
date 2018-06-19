@@ -54,7 +54,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⌥⌘E' or '⌃⌘E'</ShortCut>
           <Description>Rename...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace...">
@@ -142,7 +142,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'SDK Test App'</Description>
-          <Count>39</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Test App'">
