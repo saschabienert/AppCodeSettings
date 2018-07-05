@@ -46,7 +46,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -86,6 +86,14 @@
           <IdeaActionID>Replace</IdeaActionID>
           <ShortCut>'⌘F'</ShortCut>
           <Description>Replace...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⌘§'</ShortCut>
+          <Description>Restore Windows</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
