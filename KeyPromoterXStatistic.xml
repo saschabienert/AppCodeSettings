@@ -102,7 +102,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>170</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -174,7 +174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'SDK Test App'</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Test App'">
