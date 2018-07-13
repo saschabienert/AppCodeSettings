@@ -102,7 +102,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>221</Count>
+          <Count>224</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -142,7 +142,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Step Into</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -166,7 +166,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'MediationTestApp'</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SDK Test App'">
@@ -175,6 +175,14 @@
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'SDK Test App'</Description>
           <Count>46</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SE447'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘⎋'</ShortCut>
+          <Description>Stop 'SE447'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Test App'">
