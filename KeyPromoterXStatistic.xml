@@ -49,6 +49,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <ShortCut>'⌘9'</ShortCut>
+          <Description>Event Log</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Forward">
         <Item>
           <IdeaActionID>Forward</IdeaActionID>
@@ -70,7 +78,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
