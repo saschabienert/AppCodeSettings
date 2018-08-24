@@ -2,12 +2,9 @@
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
-  <action id="ActivateFavoritesToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateMessagesToolWindow">
-    <keyboard-shortcut first-keystroke="meta 8" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -228,6 +225,9 @@
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Vcs.RollbackChangedLines">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift meta down" />
