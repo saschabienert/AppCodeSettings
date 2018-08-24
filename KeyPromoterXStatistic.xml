@@ -33,11 +33,27 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <ShortCut>'⌘9'</ShortCut>
+          <Description>Event Log</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -62,7 +78,15 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>8</Count>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'⇧⌘M'</ShortCut>
+          <Description>Move to Another Changelist...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preferences...">
@@ -118,7 +142,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>480</Count>
+          <Count>499</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -126,7 +150,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FrequencyLimitsTests...'">
@@ -151,6 +175,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Run 'SDK Test App'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Shelve Silently">
+        <Item>
+          <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
+          <ShortCut>'⌥⌘H'</ShortCut>
+          <Description>Shelve Silently</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -182,7 +214,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'MediationTestApp'</Description>
-          <Count>144</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SDK Test App'">
@@ -238,6 +270,14 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Terminal</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
