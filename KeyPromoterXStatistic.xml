@@ -33,6 +33,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -63,6 +71,14 @@
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'⇧⌘M'</ShortCut>
+          <Description>Move to Another Changelist...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preferences...">
@@ -153,6 +169,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Shelve Silently">
+        <Item>
+          <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
+          <ShortCut>'⌥⌘H'</ShortCut>
+          <Description>Shelve Silently</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Step Into">
         <Item>
           <IdeaActionID>StepInto</IdeaActionID>
@@ -238,6 +262,14 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Terminal</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
