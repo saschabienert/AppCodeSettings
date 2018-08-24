@@ -69,6 +69,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="DecrementWindowHeight" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="Diff.ShowDiff" />
@@ -121,6 +122,7 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
+  <action id="IncrementWindowHeight" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
@@ -171,6 +173,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
@@ -223,6 +228,12 @@
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
