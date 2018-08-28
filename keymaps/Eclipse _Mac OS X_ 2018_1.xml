@@ -113,6 +113,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GotoAction" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
