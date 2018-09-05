@@ -217,14 +217,6 @@
           <Count>5</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'MediationTestApp'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘⎋'</ShortCut>
-          <Description>Stop 'MediationTestApp'</Description>
-          <Count>195</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'SDK Test App'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -313,6 +305,14 @@
           <ShortCut>'Button1 Click'</ShortCut>
           <Description>Jump to Source</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MediationTestApp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘⎋'</ShortCut>
+          <Description>Stop 'MediationTestApp'</Description>
+          <Count>198</Count>
         </Item>
       </Statistic>
     </option>
