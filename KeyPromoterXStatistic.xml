@@ -142,7 +142,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>755</Count>
+          <Count>904</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -166,7 +166,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Run 'MediationTestApp'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SDK Test App'">
@@ -215,6 +215,14 @@
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'Functional Tests'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FyberTestApp'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘⎋'</ShortCut>
+          <Description>Stop 'FyberTestApp'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SDK Test App'">
