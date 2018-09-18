@@ -217,6 +217,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'All in FYBUserSpec.m'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘⎋'</ShortCut>
+          <Description>Stop 'All in FYBUserSpec.m'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Debug'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
