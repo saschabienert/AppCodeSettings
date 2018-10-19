@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Profile 'SDK Test App'">
+        <Item>
+          <IdeaActionID>Instruments</IdeaActionID>
+          <ShortCut>'⌘P'</ShortCut>
+          <Description>Profile 'SDK Test App'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refactor This...">
         <Item>
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
