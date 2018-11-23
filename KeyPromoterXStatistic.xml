@@ -145,20 +145,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Resume Program">
-        <Item>
-          <IdeaActionID>Resume</IdeaActionID>
-          <ShortCut>'F8'</ShortCut>
-          <Description>Resume Program</Description>
-          <Count>1189</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in FYBAdvertiser...'">
@@ -385,6 +377,14 @@
           <ShortCut>'Button1 Click'</ShortCut>
           <Description>Jump to Source</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>1191</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'MediationTestApp'">
