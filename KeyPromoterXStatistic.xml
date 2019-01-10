@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
