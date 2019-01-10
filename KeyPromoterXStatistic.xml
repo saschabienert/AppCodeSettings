@@ -278,7 +278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'SDK Test App'</Description>
-          <Count>140</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SE447'">
