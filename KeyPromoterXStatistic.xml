@@ -70,7 +70,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -278,7 +278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'SDK Test App'</Description>
-          <Count>152</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SE447'">
