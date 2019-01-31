@@ -350,6 +350,14 @@
           <IdeaActionID>CIDR.Lang.ObjC.ExtractSubclass</IdeaActionID>
           <ShortCut>'⌥⌘2'</ShortCut>
           <Description>Subclass...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Superclass...">
+        <Item>
+          <IdeaActionID>ExtractSuperclass</IdeaActionID>
+          <ShortCut>'⌥⌘1'</ShortCut>
+          <Description>Superclass...</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
