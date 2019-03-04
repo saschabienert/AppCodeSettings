@@ -46,7 +46,15 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>3</Count>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Enter Presentation Mode">
+        <Item>
+          <IdeaActionID>TogglePresentationMode</IdeaActionID>
+          <ShortCut>'⌃⌘P'</ShortCut>
+          <Description>Enter Presentation Mode</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Event Log">
@@ -62,7 +70,7 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'Button5 Click' or '⌃⌘→'</ShortCut>
           <Description>Forward</Description>
-          <Count>31</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -70,7 +78,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⌘§'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -78,7 +86,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>20</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
@@ -86,6 +94,22 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'⇧⌘M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'⌥⌘5'</ShortCut>
+          <Description>Move...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌘V'</ShortCut>
+          <Description>Paste</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -150,7 +174,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in FYBAdvertiser...'">
@@ -190,7 +214,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Run 'SDK Test App'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Shelve Silently">
@@ -273,14 +297,6 @@
           <Count>9</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'SDK Test App'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘⎋'</ShortCut>
-          <Description>Stop 'SDK Test App'</Description>
-          <Count>111</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'SE447'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -337,6 +353,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Subclass...">
+        <Item>
+          <IdeaActionID>CIDR.Lang.ObjC.ExtractSubclass</IdeaActionID>
+          <ShortCut>'⌥⌘2'</ShortCut>
+          <Description>Subclass...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Superclass...">
+        <Item>
+          <IdeaActionID>ExtractSuperclass</IdeaActionID>
+          <ShortCut>'⌥⌘1'</ShortCut>
+          <Description>Superclass...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="TODO">
         <Item>
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
@@ -350,6 +382,14 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Terminal</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'⌘7'</ShortCut>
+          <Description>Version Control</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -393,6 +433,14 @@
           <ShortCut>'⌘⎋'</ShortCut>
           <Description>Stop 'MediationTestApp'</Description>
           <Count>198</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SDK Test App'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘⎋'</ShortCut>
+          <Description>Stop 'SDK Test App'</Description>
+          <Count>180</Count>
         </Item>
       </Statistic>
     </option>
