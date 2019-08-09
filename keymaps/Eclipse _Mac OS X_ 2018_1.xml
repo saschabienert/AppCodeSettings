@@ -271,6 +271,9 @@
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="XDebugger.ToggleSortValues">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
