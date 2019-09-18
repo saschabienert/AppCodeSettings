@@ -64,9 +64,6 @@
     <keyboard-shortcut first-keystroke="shift meta alt u" />
   </action>
   <action id="CodeGlance.toggle" />
-  <action id="CollapseAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta alt minus" />
-  </action>
   <action id="Compare.Selected">
     <keyboard-shortcut first-keystroke="shift meta alt enter" />
   </action>
@@ -102,18 +99,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl left" />
   </action>
   <action id="EvaluateExpression" />
-  <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta alt equals" />
-  </action>
   <action id="ExtractSuperclass">
     <keyboard-shortcut first-keystroke="meta alt 1" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.TogglePathShowing" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
@@ -282,7 +273,7 @@
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
   <action id="linessorter.sort">
-    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
