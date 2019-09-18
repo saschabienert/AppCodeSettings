@@ -153,7 +153,7 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="InspectCode">
-    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="Instruments">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -216,9 +216,7 @@
   <action id="RunConfiguration">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
-  <action id="RunInspection">
-    <keyboard-shortcut first-keystroke="shift meta u" />
-  </action>
+  <action id="RunInspection" />
   <action id="RunToCursor" />
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
@@ -231,6 +229,9 @@
   </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta escape" />
